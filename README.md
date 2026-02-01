@@ -1,18 +1,26 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Samyutha%20Vangari&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Samyutha%20Vangari&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7149F6&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;AI+%26+Data+Science+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BF5AF2&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;AI+%26+Data+Science+Enthusiast" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-6B21A8?style=flat-square" />
+  <img src="https://img.shields.io/github/followers/samyuthavangari?label=Followers&style=flat-square&color=6B21A8" />
+  <img src="https://komarev.com/ghpvc/?username=samyuthavangari&label=Profile%20Views&color=6B21A8&style=flat-square" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on building scalable web applications.
-- 🎓 Passionate about **Artificial Intelligence** and **Data Structures**.
-- 💬 Ask me about **React, Node.js, or Python**.
-- 📫 How to reach me: [vangarisamyutha@gmail.com](mailto:vangarisamyutha@gmail.com)
+### 🎀 A Little About Me
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="140" />
+
+- 🔭 **Focusing on:** Building elegant, user-centric web applications and AI-driven solutions.
+- 🎓 **Education:** Deep diving into **Deep Learning** and Advanced **Algorithms**.
+- 💡 **Philosophy:** Code is poetry; I strive to write it beautifully.
+- 📫 **Reach Out:** [vangarisamyutha@gmail.com](mailto:vangarisamyutha@gmail.com)
 
 ---
 
@@ -25,22 +33,24 @@
 
 ---
 
+### 🐍 The Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samyuthavangari/samyuthavangari/output/github-snake.svg" alt="Snake animation" />
+</p>
+
+
+---
+
 ### 📊 Github Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samyuthavangari&show_icons=true&theme=transparent&title_color=7149F6&text_color=ffffff&icon_color=7149F6&border_color=7149F6" height="180" alt="stats" />
+  +
   <img src="https://streak-stats.demolab.com/?user=samyuthavangari&theme=transparent&stroke=7149F6&fire=7149F6&ring=7149F6&currStreakLabel=7149F6" height="180" alt="streak" />
 </p>
 
----
-
-### 🐍 Contribution Journey
-<p align="center">
- <img src="https://raw.githubusercontent.com/samyuthavangari/samyuthavangari/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/samyutha-vangari">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -51,5 +61,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
