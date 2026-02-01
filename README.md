@@ -20,7 +20,7 @@
 - 🔭 **Focusing on:** Building elegant, user-centric web applications and AI-driven solutions.
 - 🎓 **Education:** Deep diving into **Deep Learning** and Advanced **Algorithms**.
 - 💡 **Philosophy:** Code is poetry; I strive to write it beautifully.
-- 📫 **Reach Out:** [vangarisamyutha@gmail.com](mailto:vangarisamyutha@gmail.com)
+- 📫 **Reach Out:** [pranathi.vangari@gmail.com](mailto:pranathi.vangari@gmail.com)
 
 ---
 
